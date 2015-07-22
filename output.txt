@@ -1,0 +1,409 @@
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+6
+
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston, MA
+Phone Number: 555-2337
+
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St.
+NY, NY 33333
+Phone Number: 555-9999
+
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave
+Malden, MA
+Phone Number: 555-5678
+
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave.
+Lawrence, MA
+Phone Number: 555-7654
+
+Name: Milton, Fred
+Occupation: Sales
+Address: 12 Freedom Way
+Nashua, NH
+Phone Number: 555-9981
+
+Name: Papert, Seymour
+Occupation: Lego Professor
+Address: MIT
+Phone Number: 555-1111
+
+Name: Proverb, Jewel
+Occupation: Landscaper
+Address: 34 Washington St.
+Waltham, MA
+Phone Number: 555-3333
+
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave.
+Boston, MA
+Phone Number: 555-1776
+
+Name: Reyes, Jen
+Occupation: Graphic Artist
+Address: 325 Oak Rd
+Wilmington, MA
+Phone Number: 555-4950
+
+Name: Smyth, Jon
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburg, PA
+Phone Number: 555-1324
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+4
+
+Enter the last name: Heard
+
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave
+Malden, MA
+Phone Number: 555-5678
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave
+Malden, MA
+Phone Number: 555-5678
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+3
+Rolodex flipped!
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave.
+Lawrence, MA
+Phone Number: 555-7654
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+4
+
+Enter the last name: Smyth
+
+Name: Smyth, Jon
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburg, PA
+Phone Number: 555-1324
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+5
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston, MA
+Phone Number: 555-2337
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+1
+Enter the first name:
+Matthew
+Enter the last name:
+Williams
+Enter occupation:
+Teacher
+Enter address w/ city, state and zip:
+69 main st, action, MA
+Enter phone number:
+555-9330
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Williams, Matthew
+Occupation: Teacher
+Address: 69 main st, action, MA 
+Phone Number: 555-9330
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+3
+Rolodex Flipped!
+
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston, MA
+Phone Number: 555-2337
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St.
+NY, NY 33333
+Phone Number: 555-9999
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+1
+
+Enter the first name:
+Jim
+Enter the last name:
+Butler
+Enter occupation:
+Contractor
+Enter address w/ city, state and zip:
+33 Cedar Lane, Concord, MA
+Enter phone number:
+555-8535
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Butler, Jim
+Occupation: Contractor
+Address: 33 Cedar Lane, Concord, MA
+Phone Number: 555-8535
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+4
+
+Enter the last name: Proverb
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Proverb, Jewel
+Occupation: Landscaper
+Address: 34 Washington St.
+Waltham, MA
+Phone Number: 555-3333
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+5
+
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+2
+
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave.
+Boston, MA
+Phone Number: 555-1776
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+1
+
+Enter the first name:
+Jin
+Enter the last name:
+Butler
+Enter occupation:
+Consultant
+Enter address w/ city, state and zip:
+22 Minuteman St, Lexington, MA
+Enter phone number:
+555-4422
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+1
+
+Enter the first name:
+Dan
+Enter the last name:
+Butler
+Enter occupation:
+Chauffeur
+Enter address w/ city, state and zip:
+68 Willow St, Westford, MA
+Enter phone number:
+555-8493
+(1) add a card
+(2) view current card
+(3) flip current card
+(4) search cards
+(5) delete card
+(6) list the rolodex
+Enter your selection:
+6
+
+Name: Butler, Dan
+Occupation: Chauffeur
+Address: 68 Willow St, Westford, MA
+Phone Number: 555-8493
+
+Name: Butler, Jim
+Occupation: Contractor
+Address: 33 Cedar Lane, Concord, MA
+Phone Number: 555-8535
+
+Name: Butler, Jim
+Occupation: Consultant
+Address: 22 Minuteman St, Lexington, MA
+Phone Number: 555-4422
+
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St.
+NY, NY 33333
+Phone Number: 555-9999
+
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave
+Malden, MA
+Phone Number: 555-5678
+
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave.
+Lawrence, MA
+Phone Number: 555-7654
+
+Name: Milton, Fred
+Occupation: Sales
+Address: 12 Freedom Way
+Nashua, NH
+Phone Number: 555-9981
+
+Name: Papert, Seymour
+Occupation: Lego Professor
+Address: MIT
+Phone Number: 555-1111
+
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave.
+Boston, MA
+Phone Number: 555-1776
+
+Name: Reyes, Jen
+Occupation: Graphic Artist
+Address: 325 Oak Rd
+Wilmington, MA
+Phone Number: 555-4950
+
+Name: Williams, Matthew
+Occupation: Teacher
+Address: 69 Main St, Action, MA
+Phone Number: 555-9330
+
